@@ -38,13 +38,13 @@ Make sure the executable file is in the same directory as the input files contai
 The program should be executed in the following way:
 
 ```
-$ ./proj1 < test01.in > test01.myout
+$ ./proj1 < teste01.in > teste01.myout
 ```
 
 Afterwards you can compare your output with the foressen output using:
 
 ```
-$ diff test01.out test01.myout
+$ diff teste01.out teste01.myout
 ```
 
 ## Authors
