@@ -23,7 +23,7 @@ You will need the gcc compiler installed in your machine.
 
 ### Compiling
 
-Download the .zip and compile the 'main.c' file using the following options:
+Download the .zip and compile the 'main.c' file using the following command:
 
 ```
 $ gcc -Wall -o proj1 main.c
