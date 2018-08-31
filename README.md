@@ -2,7 +2,7 @@
 
 This project consists on a program for managing and monitoring a message board. More specifically, the user interaction with the program occurs through a set of lines composed by a letter (the command itself) and eventually one or two arguments.
 
-##Commands Available
+## Commands Available
 
 Command | Description
 ------------ | -------------
@@ -17,11 +17,11 @@ X | Closes the program.
 
 ## Getting Started
 
-###Prerequisites
+### Prerequisites
 
 You will need the gcc compiler installed in your machine.
 
-###Compiling
+### Compiling
 
 Download the .zip and compile the 'main.c' file using the following options:
 
@@ -32,7 +32,7 @@ $ gcc -Wall -o proj1 main.c
 which should create the executable file 'proj1'.
 
 
-##Running the Tests
+## Running the Tests
 
 Make sure the executable file is in the same directory as the input files contained in 'Exemplos'.
 The program should be executed in the following way:
@@ -51,6 +51,6 @@ $ diff teste01.out teste01.myout
 
 * Francisco Matos
 
-##Evaluation
+## Evaluation
 
 17/20
